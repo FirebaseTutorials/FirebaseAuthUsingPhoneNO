@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1071968441628",
+    "firebase_url": "https://fir-authusingphoneno.firebaseio.com",
+    "project_id": "fir-authusingphoneno",
+    "storage_bucket": "fir-authusingphoneno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071968441628:android:1966f5eee92f4a574596d9",
+        "android_client_info": {
+          "package_name": "com.arslan6015.firebaseauthusingphoneno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071968441628-dvujhtv391a6onq8n6k692lb6cvi7m19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arslan6015.firebaseauthusingphoneno",
+            "certificate_hash": "c5ce6497693719c59f779354f7b9f32e8335b832"
+          }
+        },
+        {
+          "client_id": "1071968441628-i0p5tpa7bhjml72p6a6ct8virj8iuijq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaBv-dMToum3V9lsjgFp0UJm6G1q-qZVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071968441628-i0p5tpa7bhjml72p6a6ct8virj8iuijq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
